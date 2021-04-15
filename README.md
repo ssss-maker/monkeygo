@@ -1,0 +1,2 @@
+# monkeygo
+monkey run
